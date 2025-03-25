@@ -1,2 +1,3 @@
-# Wan2.1-PyTorch
+# Wan2.1 PyTorch
+
 PyTorch implementation of Wan2.1
